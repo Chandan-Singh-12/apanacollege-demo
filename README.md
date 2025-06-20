@@ -1,2 +1,2 @@
 # apanacollege-demo
-Author - Chandan Singh
+Author - Chandan Singh -Apana College
